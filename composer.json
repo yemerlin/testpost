@@ -1,0 +1,17 @@
+{
+    "name": "test/po",
+    "description": "t",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Test\\Po\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "linruiye",
+            "email": "980973135@qq.com"
+        }
+    ],
+    "require": {}
+}
